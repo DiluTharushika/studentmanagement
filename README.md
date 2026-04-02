@@ -39,4 +39,4 @@ A full-featured desktop application developed using **Java Swing** and **Postgre
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/DiluTharushika/Advanced-Student-Management-Dashboard.git
