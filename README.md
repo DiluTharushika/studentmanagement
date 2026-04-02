@@ -7,16 +7,21 @@ A Java-based GUI application built using Swing and SQLite.
 - View Students
 - Search Student
 - Delete Student
-- Show Statistics (Average & Top Student)
+- Show Statistics
+
+## Screenshots
+
+### Main Dashboard
+![Main Screen](screenshots/main-screen.png)
+
+### View Students
+![View Students](screenshots/view-students.png)
 
 ## Technologies Used
-- Java (OOP)
-- Swing (GUI)
-- SQLite (Database)
+- Java
+- Swing
+- SQLite
 
 ## How to Run
-1. Compile:
-   javac -cp ".;sqlite-jdbc-3.51.3.0.jar" *.java
-
-2. Run:
-   java -cp ".;sqlite-jdbc-3.51.3.0.jar" SwingApp
+javac -cp ".;sqlite-jdbc-3.51.3.0.jar" *.java  
+java -cp ".;sqlite-jdbc-3.51.3.0.jar" SwingApp
