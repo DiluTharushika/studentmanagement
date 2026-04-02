@@ -9,7 +9,7 @@ A full-featured desktop application developed using **Java Swing** and **Postgre
 - 📊 Interactive Dashboard with statistics  
 - ➕ Add New Students  
 - 📋 View All Student Records  
-- 🔍 Search Students بسهولة (by name, ID, etc.)  
+- 🔍 Search Students(by name, ID, etc.)  
 - ✏️ Update Student Details  
 - ❌ Delete Student Records  
 - 🏆 Identify Top-Performing Students  
